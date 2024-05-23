@@ -1,0 +1,37 @@
+body{
+    padding: 100px;
+}
+
+#wlc{
+    margin-bottom: 50px;
+}
+.form-control{
+    margin-bottom: 25px;
+}
+.card{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
+#transaction-page{
+    display: none;
+}
+.status{
+    color: white;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightcoral;
+}
+.balance{
+    background-color: orange;
+}
+#bar{
+    margin-bottom: 40px;
+}
